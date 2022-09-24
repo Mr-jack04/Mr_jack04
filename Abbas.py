@@ -20,7 +20,7 @@ os.system('git pull')
 def Run():
         bit = platform.architecture()[0]
         if bit == '64bit':
-            print("\x1b[1;92m[•] Congratulations ! Your Device Support This T>
+            print("\x1b[1;92m[•] Congratulations ! Your Device Support This Tool")
             import ka
         else:
             exit('\033[1;31m[×] Sorry, Your Device Not Support This Tool')
