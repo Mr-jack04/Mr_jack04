@@ -6,6 +6,11 @@ except ImportError:
         os.system('pip install requests')
 
 try:
+        import rich
+except ImportError:
+        print('\n [×] requests module not installed!...\n')
+        os.system('pip install rich')
+try:
         import concurrent.futures
 except ImportError:
         print('\n [×] Futures module not installed!...\n')
