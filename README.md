@@ -1,12 +1,12 @@
-# Mr-jack04 
+# Mr-jack04
 # PAID TOOLS
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Jack04-dimgray?style=flat-square&logo=github)](https://github.com/Mr-jack04)<br> [![Facebook](https://img.shields.io/badge/Facebook-Jack04-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100084846651448)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-Mr_jack04-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923155334785)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Mr_Jack04-dimgray?style=flat-square&logo=github)](https://github.com/Mr-jack04)<br> [![Facebook](https://img.shields.io/badge/Facebook-Mr_Jack04-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100084846651448)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-Mr_jack04-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923155334785)
 
 
 
 <h1 align="center"> [Mr.HACKER]</h1>
 
-<h2 align="center">  FB CLONING TOOL </h2>
+<h2 align="ce⁶nter">  FB CLONING TOOL </h2>
 
 
 ## <b>installation</b>
@@ -29,4 +29,4 @@
 
 
  ___This Tools is Paid___</br>
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-Mr-jack04-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923155334785)
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-Mr_jack04-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923155334785)
