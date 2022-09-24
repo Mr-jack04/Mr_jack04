@@ -22,6 +22,7 @@ def Run():
         if bit == '64bit':
             print("\x1b[1;92m[•] Congratulations ! Your Device Support This Tool")
             import ka
+            ka.Subscraption()
         else:
             exit('\033[1;31m[×] Sorry, Your Device Not Support This Tool')
 Run()
